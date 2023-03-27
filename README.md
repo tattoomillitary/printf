@@ -1,4 +1,4 @@
-Team project for ALX_SE This is our first collaborative project on ALX called printf. collaborators include (Aisha google and Oluwakemi Temitope).
+Team project for ALX_SE This is our first collaborative project on ALX called printf. collaborators include (Success Braimoh and Kennedy Ufene).
 More Info
 
 Authorized functions and macros used for this project
